@@ -7,3 +7,6 @@
 * some parts are old in this code , change according to usage
 * could be more graphically enhanced if needed
 **will be updating in between , stay connected. 
+
+Easy hand book on Database Connectivity for starters
+http://www.cbse.nic.in/publications/informaticspracticesbookclassxiiforweb_2011.zip
